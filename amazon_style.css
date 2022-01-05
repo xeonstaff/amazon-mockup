@@ -1,0 +1,136 @@
+
+
+#picturediv{
+    max-width:100%;
+    display:flex;
+    justify-content: center;
+    margin-bottom:50px;
+}
+#picture{
+    height:31px;
+    width:103px;
+}
+
+h1{
+    font-family:sans-serif;
+    font-weight:100;
+    
+}
+
+#bigboxbox{
+    display:flex;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+#bigbox{
+    border: 1px rgba(128, 128, 128, 0.212) solid;
+    width:50%;
+    align-items:flex-start;
+    padding-left:50px;
+    display:block;
+
+}
+
+.texty{
+    color:rgba(0, 0, 0, 0.452);
+    font-family:sans-serif;
+}
+
+.enterbox {
+    display:block;
+    width:80%;
+    height:30px;
+    font-size:16px;
+}
+
+.textlink{
+    font-family:sans-serif;
+}
+
+#passwordbar{
+    display:flex;
+    justify-content: space-around;
+    position:relative;
+    top:15px;
+    right:50px;
+    padding:10px;
+}
+
+#contbut{
+    display:block;
+    background-color: #f7c548;
+    color:rgba(0, 0, 0, 0.514);
+    font-family:sans-serif;
+    width:400px;
+    height:35px;
+}
+
+#contbutbox {
+    padding:20px;
+}
+
+#triangle{
+    font-size:7px
+}
+
+.textlink{
+    font-family:sans-serif;
+}
+
+#needhelp{
+    position:absolute;
+}
+
+.needhelpbox{
+    display:flex;
+}
+
+#new{
+    color:rgba(0, 0, 0, 0.514);
+    font-family:sans-serif;
+    z-index:1;
+}
+
+#new2{
+    z-index:2;
+}
+
+#needhelp{
+    position:absolute;
+}
+
+#newtoamazonbox{
+    display:flex;
+    justify-content: center;
+}
+
+#newtoamazon{
+    display:absolute;
+}
+
+#crbut{
+    background-color: #e7e9ec;
+    color:rgba(0, 0, 0, 0.514);
+    width:400px;
+    height:30px;
+}
+
+#buttbox{
+    display:flex;
+    justify-content: center;
+}
+
+#menu{
+    text-align:space-around;
+    font-size:16px;
+    color:rgba(0, 0, 0, 0.514);
+    font-family:sans-serif;
+
+}
+
+#foot{
+    text-align:center;
+    color:rgba(0, 0, 0, 0.514);
+    font-family:sans-serif;
+}
